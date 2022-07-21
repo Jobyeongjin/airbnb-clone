@@ -1,4 +1,6 @@
 from django.contrib import admin
+
+# 현 위치의 파일 경로에서 models.py라는 파일 불러오기
 from . import models
 
 
